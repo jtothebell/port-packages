@@ -7,5 +7,9 @@ As of now these are all FNA based commercial games that require the purchase of 
 Shipwreck has been tested with the itch.io linux and windows versions (https://brushfiregames.itch.io/shipwreck)
 
 Fez has been tested with the humble DRM free linux version (https://www.humblebundle.com/store/fez)
+Known issues: going to the video menu crashes
 
 Axiom verge has been tested with the epic games version (AFAIK the only DRM free version- https://store.epicgames.com/en-US/p/axiom-verge)
+Known issues:
+text on main menu is off center
+Randomizer crashes
