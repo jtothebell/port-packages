@@ -1,6 +1,6 @@
 # port-packages
 
-This repo holds the packaging for ports that I either have PR'ed or hope to PR to https://github.com/christianhaitian/PortMaster for running on retro handheld devices.
+This repo holds the packaging for ports that I either have PR'ed or at one point hoped to PR to https://github.com/christianhaitian/PortMaster for running on retro handheld devices. It is now more or less abandoned. Feel free to fork or reference but I've turned off issues and won't review PRs.
 
 As of now these are all FNA based commercial games that require the purchase of a game. They also all require a mono runtime, so if you are trying to get one working, you'll either need to manually place the mono runtime executable  in the portmaster directory or install another FNA based port first
 
